@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DialogFragment/DialogFragment.iml" filepath="$PROJECT_DIR$/DialogFragment/DialogFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fragment/Fragment.iml" filepath="$PROJECT_DIR$/Fragment/Fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApp.iml" filepath="$PROJECT_DIR$/MyApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandablelinearlayout/expandablelinearlayout.iml" filepath="$PROJECT_DIR$/expandablelinearlayout/expandablelinearlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/festival/festival.iml" filepath="$PROJECT_DIR$/festival/festival.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
+    </modules>
+  </component>
+</project>

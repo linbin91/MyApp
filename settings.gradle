@@ -1,0 +1,1 @@
+include ':app', ':festival', ':DialogFragment', ':Fragment', ':recyclerview', ':expandablelinearlayout'
